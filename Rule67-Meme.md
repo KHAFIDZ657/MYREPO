@@ -1,4 +1,5 @@
 # RULE 67-Meme
+Rule 67-Meme is a community made rule and you can change all of them to 67 in any way and this is my formula that I know and Rule 67-Meme is not a community made but i Made that
 ```txt
 76-67
 
