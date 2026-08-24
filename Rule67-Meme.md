@@ -11,7 +11,7 @@
 9-9x7+4-67
 
 97-flip the 9 to become a 6-67
-
+96-move six behind 69 and 69-2-67
 69-69-2-67
 
 GJ-modify G and J into 6 and 7-67
