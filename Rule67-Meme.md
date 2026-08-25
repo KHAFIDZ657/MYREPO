@@ -25,6 +25,8 @@ JG-change to GJ, then change to 6 and 7-67
 
 GJT-combine J and t; subtract/modify the shape and tilt it slightly; take the horizontal bar from the t and apply it to the modified J; G already follows the 6-67 formula-67
 6 day and 7 day- you are in this month and on the 6th day tomorrow is 7 so we combine them both so-67
+SSTV-download this file and download Robot36 and use two devices but if your device supports multitasking you can play the sound and open robot36 and run them both which will bring up the Six seven image
+https://raw.githubusercontent.com/KHAFIDZ657/MYREPO/main/67/Sound%20convert.mp3 and-67
 
 ```
 INFO:
