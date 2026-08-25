@@ -28,6 +28,8 @@ GJT-combine J and t; subtract/modify the shape and tilt it slightly; take the ho
 SSTV-download this file and download Robot36 and use two devices but if your device supports multitasking you can play the sound and open robot36 and run them both which will bring up the Six seven image
 https://raw.githubusercontent.com/KHAFIDZ657/MYREPO/main/67/Sound%20convert.mp3 and-67
 
+chemical period = Silicon + Kalium + Selenium + Vanadium + Neon Kalium is potassium but using Indonesian and if we take each abbreviation so Sik Sevne if we fix sevne seven and k change to x so-67
+
 ```
 INFO:
 btw I thought about all of that myself and it was universal and that was the formula I got
