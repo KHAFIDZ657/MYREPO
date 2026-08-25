@@ -65,4 +65,4 @@ This is just a formula that can be used for anything, it is most recommended to 
 000000000000011111100000000011000000000000
 -67
 ```
-ai Can't read the image using copy paste numbers so we have to screenshot and AI can read it
+ai Can't read the image using copy paste numbers so we have to screenshot and AI can read it If it's not a large language model
