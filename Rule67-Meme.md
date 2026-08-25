@@ -10,16 +10,22 @@ Rule 67-Meme is a community made rule and you can change all of them to 67 in an
 7.                6-67
 
 9-9x7+4-67
+Hellowe-count per letter to 7 letters and you must have read 1-7 before reaching 7 there was 6 right? so-67
+6️⃣7️⃣-67
+... .. -..- / ... . ...- . -. = translate using bot or web https://morsecode.world/international/translator.html#google_vignette the translation result is Six seven change it into a number-67
 
 97-flip the 9 to become a 6-67
 96-move six behind 69 and 69-2-67
 69-69-2-67
+657-remove 5-67
 
 GJ-modify G and J into 6 and 7-67
 
 JG-change to GJ, then change to 6 and 7-67
 
 GJT-combine J and t; subtract/modify the shape and tilt it slightly; take the horizontal bar from the t and apply it to the modified J; G already follows the 6-67 formula-67
+6 day and 7 day- you are in this month and on the 6th day tomorrow is 7 so we combine them both so-67
+
 ```
 INFO:
 btw I thought about all of that myself and it was universal and that was the formula I got
