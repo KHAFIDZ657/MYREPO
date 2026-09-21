@@ -30,6 +30,8 @@ https://raw.githubusercontent.com/KHAFIDZ657/MYREPO/main/67/Sound%20convert.mp3 
 
 chemical period = Silicon + Kalium + Selenium + Vanadium + Neon Kalium is potassium but using Indonesian and if we take each abbreviation so Sik Sevne if we fix sevne seven and k change to x so-67
 
+.-.. .. ....- ..- .. -.-. ....- ..- .. -.-. ----- ..- .-.. .. ----- --. .-.. -.-- .- ..- .-.. .. ....- --. .-.. .. .- ..- .-.. .. ....- - .. -.-. ....- --. .-.. ... ....- --. .-.. -.-- .- - .-.. .. ....- ..- .-.. ... .- ...- .. -.-. ----- ..- .-.. .. ....- ..- .. -.-. ----- - .-.. .. ....- ..-
+this is a layered encryption technique you can try to decode it if you can.
 ```
 INFO:
 btw I thought about all of that myself and it was universal and that was the formula I got
