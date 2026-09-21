@@ -32,6 +32,8 @@ chemical period = Silicon + Kalium + Selenium + Vanadium + Neon Kalium is potass
 
 .-.. .. ....- ..- .. -.-. ....- ..- .. -.-. ----- ..- .-.. .. ----- --. .-.. -.-- .- ..- .-.. .. ....- --. .-.. .. .- ..- .-.. .. ....- - .. -.-. ....- --. .-.. ... ....- --. .-.. -.-- .- - .-.. .. ....- ..- .-.. ... .- ...- .. -.-. ----- ..- .-.. .. ....- ..- .. -.-. ----- - .-.. .. ....- ..-
 this is a layered encryption technique you can try to decode it if you can.
+if you can't just  paste this URL
+https://raw.githubusercontent.com/KHAFIDZ657/MYREPO/main/67/Screenrecorder-2026-09-21-19-50-49-105.mp4
 ```
 INFO:
 btw I thought about all of that myself and it was universal and that was the formula I got
